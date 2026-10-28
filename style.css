@@ -123,7 +123,7 @@ body {
     object-fit: contain;
 }
 
-/* .services {
+.services {
     padding: 60px 12% 70px;
 }
 
@@ -181,7 +181,7 @@ body {
     line-height: 17px;
 }
 
-.review {
+/* .review {
     padding: 40px 12% 60px;
 }
 
@@ -629,4 +629,4 @@ body {
     .end {
         padding: 13px 20px;
     }
-} */ */
+} */ 
